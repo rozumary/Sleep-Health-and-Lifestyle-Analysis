@@ -17,23 +17,23 @@ Objectives
 
 Examine attributes such as:
 
-Sleep duration
+• Sleep duration
 
-Sleep quality
+• Sleep quality
 
-Physical activity level
+• Physical activity level
 
-Stress level
+• Stress level
 
-BMI category
+• BMI category
 
-Blood pressure
+• Blood pressure
 
-Heart rate
+• Heart rate
 
-Daily steps
+• Daily steps
 
-Presence of sleep disorders
+• Presence of sleep disorders
 
 
 Use exploratory data analysis and statistical modeling to gain insights.
@@ -76,7 +76,42 @@ Perceived psychological stress experienced by an individual.
 Stress can impact both sleep patterns and overall well-being.
 
 
+5. BMI Category
+
+Body Mass Index classification (e.g., underweight, normal, overweight, obese).
+
+Can indicate risks of sleep disorders such as sleep apnea.
 
 
+
+6. Blood Pressure
+
+Measurement of systolic and diastolic pressure.
+
+Poor sleep or sleep disorders are often correlated with hypertension.
+
+
+
+7. Heart Rate
+
+Resting heart rate and variability during sleep.
+
+Serves as an indicator of sleep stages and cardiovascular health.
+
+
+
+8. Daily Steps
+
+Number of steps taken per day as a measure of baseline activity.
+
+Physical activity can positively influence sleep efficiency.
+
+
+
+9. Presence of Sleep Disorders
+
+Identifies conditions such as insomnia, sleep apnea, or restless leg syndrome.
+
+Essential for understanding how disorders affect overall sleep and health.
 
 ---
