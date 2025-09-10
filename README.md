@@ -5,7 +5,7 @@ Data Analysis and Visualization for Sleep Health and Lifestyle Analysis
 
 © <br/>
 DEVELOPER/VISUALIZER: Rosemarie Montesa <br/>
-DATA ORGANIZER: Andrei Gonzaga
+DATA ORGANIZER: Mel Andrei Gonzaga
 
 ---
 
