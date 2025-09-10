@@ -3,7 +3,7 @@
 
 Data Analysis and Visualization for Sleep Health and Lifestyle Analysis
 
-©
+© <br/>
 DEVELOPER: Rosemarie Montesa <br/>
 DATA ORGANIZER: Andrei Gonzaga
 
