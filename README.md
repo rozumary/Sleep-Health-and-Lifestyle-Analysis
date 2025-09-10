@@ -36,11 +36,11 @@ Examine attributes such as:
 • Presence of sleep disorders
 
 
-Use exploratory data analysis and statistical modeling to gain insights.
+✓ Use exploratory data analysis and statistical modeling to gain insights.
 
-Identify factors influencing sleep quality and overall health.
+✓ Identify factors influencing sleep quality and overall health.
 
-Support interventions for promoting better sleep habits and well-being across demographics.
+✓ Support interventions for promoting better sleep habits and well-being across demographics.
 
 
 Key Attributes
